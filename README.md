@@ -1,5 +1,5 @@
 # CodeReview
-#Ruhi Rai
+Author: Ruhi Rai
 Title: Pipeline to do step by step code review
 
 Purpose: Check the compiled code for correct output, using correct algorithms and efficient use of existing and custom functions.
